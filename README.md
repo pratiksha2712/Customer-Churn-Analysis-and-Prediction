@@ -1,7 +1,7 @@
 
 # Customer Churn Prediction
 
-In this repository, we have performed  end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and on the basis of the analysis we have created a model, and lately, have deployed the model.
+In this repository, we have performed  end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and on the basis of the analysis we have created a and deployed the model.
 
 
 
